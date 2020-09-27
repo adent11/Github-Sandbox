@@ -11,3 +11,6 @@ For this assignment I designed the mount that attaches to the base of the caster
 
 ### Part 3 - Fork
 For this assignment I designed the fork piece of the caster. One thing I learned in this assignment is that you can use tangent propogation to avoid having to select multiple edges.
+
+### Part 4 - Tire
+For this assignment I designed the tire of the wheel of the caster. I learned that when you dimension from a centerline, if you drag the dimension past the centerline, it will double, allowing you to use this as the diameter of a revolved feature.
