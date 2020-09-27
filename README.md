@@ -14,3 +14,6 @@ For this assignment I designed the fork piece of the caster. One thing I learned
 
 ### Part 4 - Tire
 For this assignment I designed the tire of the wheel of the caster. I learned that when you dimension from a centerline, if you drag the dimension past the centerline, it will double, allowing you to use this as the diameter of a revolved feature.
+
+### Part 5 - Wheel
+For this assignment I designed the wheel of the caster. I learned that Onshape allows you to select all of the edges of a face to fillet or chamfer by only selecting the face.
