@@ -23,3 +23,6 @@ For this assignment I designed the axle, adding a seperate part for the collar, 
 
 ### Sub-Assembly
 For this assignment I made a sub-assembly with the wheel, tire, axle, and bearings. I learned roughly how Onshape mates work, by using mate connecters and inferring intent, and how to animate rotating parts in assemblies.
+
+### Final Caster Assembly
+For this assignment I assembled the whole caster and added screws and pins to hold the parts together. I had a small issue when I accidentally deleted a part from the assembly, but it was easy enough to fix using the version control, especially relative to Solidworks, where I would have had to redo quite a bit of lost work. I also learned how to insert standard nuts, bolts, pins, etc.
