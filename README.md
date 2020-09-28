@@ -20,3 +20,6 @@ For this assignment I designed the wheel of the caster. I learned that Onshape a
 
 ### Parts 6-9 Axle, Collar, Bearings
 For this assignment I designed the axle, adding a seperate part for the collar, then designed two bearings. I learned how convenient it is to make new parts in the same part studio in Onshape.
+
+### Sub-Assembly
+For this assignment I made a sub-assembly with the wheel, tire, axle, and bearings. I learned roughly how Onshape mates work, by using mate connecters and inferring intent, and how to animate rotating parts.
