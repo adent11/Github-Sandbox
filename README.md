@@ -1,6 +1,11 @@
 # Github Sandbox
 <img src="AddImage.jpg" alt="alt text" width="200" height="200">
 
+### How to attach a git repo
+git remote add origin https://github.com/...
+git remote -v
+git push/pull origin master
+
 ## Pre-Engineering Notebook
 
 ### Part 1 - Base
